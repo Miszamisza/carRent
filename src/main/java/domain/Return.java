@@ -1,4 +1,12 @@
+package domain;
+
+import domain.Employees;
+import domain.Reservation;
+import lombok.Data;
+
 import java.time.LocalDate;
+
+@Data
 
 public class Return {
     //pracownik

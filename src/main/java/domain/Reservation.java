@@ -1,3 +1,8 @@
+package domain;
+
+import domain.Cars;
+import domain.Costumer;
+import domain.Departments;
 import lombok.Data;
 
 import java.time.LocalDate;

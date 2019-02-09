@@ -1,3 +1,6 @@
+package domain;
+
+import domain.Cars;
 import lombok.Data;
 
 import java.util.List;

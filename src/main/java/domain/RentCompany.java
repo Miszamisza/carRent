@@ -1,3 +1,6 @@
+package domain;
+
+import domain.Departments;
 import lombok.Data;
 
 import java.util.List;

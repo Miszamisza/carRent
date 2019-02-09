@@ -1,4 +1,4 @@
-package TypOfBody;
+package domain;
 
 public enum TypOfBody {
     COMBI("COMBI"),

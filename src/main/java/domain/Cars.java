@@ -1,7 +1,5 @@
 package domain;
 
-import CarStatus.CatStatus;
-import TypOfBody.TypOfBody;
 import lombok.Data;
 
 @Data

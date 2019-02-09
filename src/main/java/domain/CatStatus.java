@@ -1,4 +1,4 @@
-package CarStatus;
+package domain;
 
 public enum CatStatus {
 
